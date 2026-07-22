@@ -1,4 +1,4 @@
-# Credit Card Spending Analysis (SQL)
+# Credit Card Spending Analysis (SQL & PowerBI)
 
 ## Overview
 Analysis of 2,458 credit card transactions across 150 customers over a 6-month
@@ -37,7 +37,7 @@ MySQL · SQL (GROUP BY, HAVING, JOINs, subqueries, CASE statements, aggregate fu
 12. **City-wise spend comparison** — Gurugram leads in total spend (₹13.3L) despite Mumbai having slightly more transactions (326 vs 318) — Gurugram customers spend more per transaction on average (₹4,197 vs ₹3,808). Noida is lowest at ₹5.8L total, roughly 44% of Gurugram's volume, likely tied to fewer active customers in that city segment.
 
 ## How to Run
-1. Import `credit_card_transactions.csv` into MySQL (Table Data Import Wizard, or `LOAD DATA INFILE`)
+1. Import `credit_card_dashboard_system.pbix` into MySQL (Table Data Import Wizard, or `LOAD DATA INFILE`)
 2. Run the queries in `queries.sql` — each is commented with its business question
 
 ## Files
