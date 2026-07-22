@@ -41,6 +41,6 @@ MySQL · SQL (GROUP BY, HAVING, JOINs, subqueries, CASE statements, aggregate fu
 2. Run the queries in `queries.sql` — each is commented with its business question
 
 ## Files
-- `credit_card_transactions.csv` — dataset
+- `credit_card_dashboard_system.pbix` — dataset
 - `queries.sql` — all 12 business-question queries
 - `README.md` — this file
